@@ -10,7 +10,7 @@ El dataset utilizado es https://www.kaggle.com/datasets/uciml/red-wine-quality-c
 
 ## Instrucciones de Instalación
 
-1. Clona el repositorio: 
+1. Clona el repositorio: https://github.com/arasolfer/winequality_prediction.git
 
 ## Uso
 
