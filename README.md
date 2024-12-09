@@ -6,6 +6,7 @@ El dataset utilizado es https://www.kaggle.com/datasets/uciml/red-wine-quality-c
 ## Estructura del Proyecto
 
 - winequality_prediction.ipynb: notebook para realizar el analisis.
+- winequality_prediction_pca.ipynb: notebook para realizar el analisis aplicando PCA
 - `README.md`: Este archivo.
 
 ## Instrucciones de Instalación
